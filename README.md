@@ -1,4 +1,4 @@
-<img align="right" src=" ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SakshiAndhale)"
+<img align="right" src=" ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SakshiAndhale.SakshiAndhale)"
 
 <!--
 **SakshiAndhale/SakshiAndhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
