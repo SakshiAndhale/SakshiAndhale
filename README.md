@@ -4,6 +4,7 @@
 <img src="https://github.com/user-attachments/assets/4710f9d6-d59f-4152-9054-9cedf6401cac" />
 </h1>
 
+![Sakshi Readme Banner](https://github.com/user-attachments/assets/03ec8a48-b2c8-47cc-9c29-a4415317f407)
 
 ## About Me
 
@@ -15,16 +16,20 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
 
 ### Skills and Tools
 
-- **Languages**: Python, HTML, CSS, SQL, C++
-- **Tools**: Power BI, Tableau
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0A214A?style=flat&logo=matplotlib&logoColor=white)
 
 ## 📫 How to reach me:
 
