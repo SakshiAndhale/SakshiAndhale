@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SakshiAndhale.SakshiAndhale" />
 
 <h1 align="center">
-<img src="https://github.com/user-attachments/assets/4710f9d6-d59f-4152-9054-9cedf6401cac" />
+<img src="[https://github.com/user-attachments/assets/4710f9d6-d59f-4152-9054-9cedf6401cac](https://github.com/user-attachments/assets/03ec8a48-b2c8-47cc-9c29-a4415317f407)" />
 </h1>
-
-![Sakshi Readme Banner](https://github.com/user-attachments/assets/03ec8a48-b2c8-47cc-9c29-a4415317f407)
 
 ## About Me
 
