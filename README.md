@@ -37,31 +37,51 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
 
 ### Socials
 
-<div align="center"> 
-  <a href="mailto:sakshiandhale.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<div align="center">
+
+  <!-- Gmail -->
+  <a href="mailto:sakshiandhale.work@gmail.com" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;"/>
+    <span>sakshiandhale.work@gmail.com</span>
   </a>
-  <a href="https://www.linkedin.com/in/sakshiandhale/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <br>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sakshiandhale/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"/>
+    <span>www.linkedin.com/in/sakshiandhale</span>
   </a>
-  <a href="https://sakshiandhale.github.io/Dark-Theme-Resume/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> 
+  <br>
+
+  <!-- Portfolio -->
+  <a href="https://sakshiandhale.github.io/Dark-Theme-Resume/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-right: 10px;"/>
+    <span>sakshiandhale.github.io/Dark-Theme-Resume/</span>
   </a>
+
 </div>
+
 
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="http://www.github.com/SakshiAndhale">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiAndhale&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  <!-- Top Languages Stats -->
+  <a href="https://github.com/SakshiAndhale">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiAndhale&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</div>
 
-<a href="http://www.github.com/SakshiAndhale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiAndhale&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/SakshiAndhale">
+<!-- GitHub Commits Graph -->
+<div align="center">
+  <a href="http://www.github.com/SakshiAndhale">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiAndhale&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-
-<a href="https://github.com/SakshiAndhale" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiAndhale&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </a>
+</div>
 
 
 <div align="center">
