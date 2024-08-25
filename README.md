@@ -82,6 +82,19 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
   </a>
 </div>
 
+<div align="center">
+
+  <!-- Top Languages by Commit (Approximated with Top Languages by Repo) -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiAndhale&layout=compact&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true)
+  
+  <!-- Top Languages by Repo -->
+  ![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiAndhale&layout=compact&langs_count=8&count_private=true&repo_count=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true)
+
+  <!-- Commits Per Day Hour (Visualized with Activity Graph) -->
+  ![Commit Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakshiAndhale&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area=true&hide_border=true&area_color=a855f7)
+
+</div>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
