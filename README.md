@@ -40,21 +40,21 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
 <div align="center">
 
   <!-- Gmail -->
-  <a href="mailto:sakshiandhale.work@gmail.com" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+  <a href="mailto:sakshiandhale.work@gmail.com" style="display: flex; text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;"/>
     <span>sakshiandhale.work@gmail.com</span>
   </a>
   <br>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sakshiandhale/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/sakshiandhale/" target="_blank" style="display: flex; text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"/>
     <span>www.linkedin.com/in/sakshiandhale</span>
   </a>
   <br>
 
   <!-- Portfolio -->
-  <a href="https://sakshiandhale.github.io/Dark-Theme-Resume/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+  <a href="https://sakshiandhale.github.io/Dark-Theme-Resume/" target="_blank" style="display: flex; text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-right: 10px;"/>
     <span>sakshiandhale.github.io/Dark-Theme-Resume/</span>
   </a>
