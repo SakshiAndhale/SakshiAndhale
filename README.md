@@ -83,17 +83,6 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
 </div>
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SakshiAndhale/SakshiAndhale/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-
-
 <!--
 **SakshiAndhale/SakshiAndhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
