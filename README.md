@@ -19,7 +19,7 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) -->
-
+<!--
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -39,21 +39,21 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
 
 <div align="left">
 
-  <!-- Gmail -->
+  <!-- Gmai
   <a href="mailto:sakshiandhale.work@gmail.com" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;"/>
     <span style="margin-left: 10px;"> : sakshiandhale.work@gmail.com</span>
   </a>
   <br>
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn
   <a href="https://www.linkedin.com/in/sakshiandhale/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"/>
     <span style="margin-left: 10px;"> : www.linkedin.com/in/sakshiandhale</span>
   </a>
   <br>
 
-  <!-- Portfolio -->
+  <!-- Portfolio 
   <a href="https://sakshiandhale.github.io/Dark-Theme-Resume/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-right: 10px;"/>
     <span style="margin-left: 10px;"> : sakshiandhale.github.io/Dark-Theme-Resume/</span>
@@ -68,7 +68,7 @@ Hello! I'm Sakshi Andhale, an aspiring Data Analyst with a passion for turning r
   <!-- GitHub Streak Stats 
   <a href="http://www.github.com/SakshiAndhale">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiAndhale&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> -->
-  </a>
+
   <!-- Top Languages Stats 
   <a href="https://github.com/SakshiAndhale">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiAndhale&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
